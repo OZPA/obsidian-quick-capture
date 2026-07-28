@@ -1,0 +1,12 @@
+{
+  "name": "New Memo",
+  "short_name": "New Memo",
+  "start_url": "memo.html",
+  "display": "standalone",
+  "background_color": "#f59e0b",
+  "theme_color": "#f59e0b",
+  "icons": [
+    { "src": "icon-memo-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-memo-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
